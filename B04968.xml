@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries relateing to the present state of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04968</idno>
+            <idno type="STC">Wing Q173B</idno>
+            <idno type="STC">ESTC R182315</idno>
+            <idno type="EEBO-CITATION">52614866</idno>
+            <idno type="OCLC">ocm 52614866</idno>
+            <idno type="VID">176051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176051)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queries relateing to the present state of England</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176051:1"/>
+            <!-- PDF PAGE 48 -->
+            <head>QUERIES RELATEING to the preſent ſtate of England.</head>
+            <p n="1">I. <seg rend="decorInit">S</seg>INCE every perſon that takes the oath of allegiance, declares; that he believes, and is reſolved in his Conſcience, that neither the Pope nor any other perſon what<g ref="char:EOLhyphen"/>ſoever can abſolve him of that oath: <hi>Quae<g ref="char:EOLhyphen"/>re,</hi> vvhether Conventions and even Parlia<g ref="char:EOLhyphen"/>ments are not compriſed under thoſe vvords, <hi>any other perſon vvhatſoever.</hi>
+            </p>
+            <p n="2">II. All perſons that take it, declare that they deteſt and abjure as impious and Haereticall this damnable doctrine and poſition, <hi>That Princes, vvhich be excommunicated or de prived by the Pope, may be depoſed or murdered by their Subjects or any other perſon vvhatſoever,</hi> Since it is not to be imagined that the Pope vvill excommunicate or deprive any Princes but ſuch as are contrary to his religion and the intereſts of it. <hi>Quaere</hi> vvhether it be a doctrine leſſe Im<g ref="char:EOLhyphen"/>pious, leſſe Haereticall, or leſſe damnable to veſt that povver in the People vvhich is juſtly denyed to the Pope, that they may deprive or depoſe any Prince that is of a different Re<g ref="char:EOLhyphen"/>ligion from theirs, vvhenever they shall fancy that the inte<g ref="char:EOLhyphen"/>reſts of their Religion may miſcarry in his hands. Or to ſay the ſame thing in other vvords.</p>
+            <p n="3">III. Whether it vvas not a ſtrange confidence in Doctor
+<pb n="2" facs="tcp:176051:2"/>
+               <!-- PDF PAGE 49 -->
+               <hi>Burnet</hi> in his ſermon preach't 23. Decem. before the Prince of Orange, after he had vvith a juſt indignation, asked, vvhether <hi>zeal for Holy Church could vvartant breach of faith?</hi> yet in the very ſame diſcourſe, to magnify the rebel<g ref="char:EOLhyphen"/>lion of the People and the deſertion of the Army, as the Lords Doing, and one of the vvonders of his Love and Mer<g ref="char:EOLhyphen"/>cy: though it vvas a complication of as much treaſon, per<g ref="char:EOLhyphen"/>jury and breach of faith, as ever vvas acted in the vvorld: and Expreſly acknovvledged by thoſe that vvere Guilty of it that it vvould be ſo in any other caſe but Zeal for their Religion.</p>
+            <p n="4">IV. Since in all Parliaments as the Intereſt of the Peo<g ref="char:EOLhyphen"/>ple is ſufficiently ſecured by their free Election of their re<g ref="char:EOLhyphen"/>preſentatives, ſo the intereſt of the Crovvn is likevviſe ſecu<g ref="char:EOLhyphen"/>red in that all men are diſabled to ſit or act in either of the Houſes till they have qualified themſelves by taking the oaths of allegiance and ſupremacy; if the laſt of theſe qua<g ref="char:EOLhyphen"/>lifications be not obſerved as vvell as the firſt in any Con<g ref="char:EOLhyphen"/>vention or pretended Parliament that shall be cal'd vvithout the Kings Authority. <hi>Quaere,</hi> vvhether all their proceedings may not juſtly be eſteemed as partiall, as their very being and Conſtitution is illegall, by all indifferent perſons.</p>
+            <p n="5">V. <hi>Quaere,</hi> vvhether allegiance be locall, or that it may ceaſe as ſoon as a king is out of his Dominions? For, ſince a ſubject beyond the ſeas may commit treaſon againſt the King being in England: vvhy the ſubjects in England may not commit treaſon againſt the King vvhen he is beyond the ſeas, vvill be a hard ſtrain to make the difference. But this hath been ſolemnly adjudged by all the Judges of England in the Caſe of Sir H. Vane, vvho vvas Indicted, condemned and executed for High treaſon committed againſt King Charles the ſecond at a time vvhen he vvas in France for the ſame reaſon that the King is there novv, and had no body then in Commiſſion to act for him or by his authority in England.</p>
+            <pb n="3" facs="tcp:176051:2"/>
+            <!-- PDF PAGE 49 -->
+            <p n="6">VI. If a Kings going out of England (even though there had been no force) vvere a forfeiture of his Crovvn; <hi>Quaere</hi> vvhether, not only all our Kings in their Expeditions into the holy Land, France, &amp;c. but the Emperour, vvho in Henry the eights time, or the King of Denmark vvho in the Reign of King James the firſt came into England, only, for ought appeares, to make viſits; or for their pleaſure; or at beſt to tranſact affaires that might have been done by their miniſters; vvhether by this they vvere thought to have for<g ref="char:EOLhyphen"/>feited their Crovvns by their Subjects or any body els?</p>
+            <p n="7">VII. Since any force upon the meaneſt ſubject makes it impoſſible for him to barr himſelf or part vvith any right of his, ſo long as he continues under that force; <hi>Quaere</hi> vvhe<g ref="char:EOLhyphen"/>ther a King not only overpovverd but impriſoned by a for<g ref="char:EOLhyphen"/>raign army can loſe or forfeit any thing by uſing his utmoſt endeavours to regain his liberty and by continuing in a place of ſafety till ſuch force is removed?</p>
+            <p n="8">VIII. Whether that Statute that indemnifies all ſuch as shall fight for a King <hi>de facto</hi> though he be not a King <hi>de Jure,</hi> vvhich vvas only intended to quiet mens minds in caſe of a doubtfull title as often hapned in the intricate pedigree betvveen the Houſes of Lancaſter and York, can ever be applyed to one that uſurps the Crovvn upon a King vvhoſe title is ſo clear and ſo univerſally acknovvledged.</p>
+            <p n="9">IX. Since ignorance of the Lavv excuſes no man, vvhe<g ref="char:EOLhyphen"/>ther all thoſe that shall run into Rebellion, hoping for in<g ref="char:EOLhyphen"/>demnity by that Statute, and shall aftervvards come to be executed for it, may not iuſtly lay their blood at the door of thoſe, vvho have miſled them by diſguiſing the lavv vvith ſuch abſurd and malicious interpretations.</p>
+            <p n="10">X. Whether an English or a forreign Army be the fitter inſtrument to ſett up Arbitrary povver in England; or vvhe<g ref="char:EOLhyphen"/>ther a Lavvfull King, vvho can have no temptation to it, or an uſurper, vvho can never be ſafe vvithout it, be the like<g ref="char:EOLhyphen"/>lier perſon to enſlave the nation.</p>
+            <pb n="4" facs="tcp:176051:3"/>
+            <!-- PDF PAGE 50 -->
+            <p n="11">XI. Whether perſons that are to be proceded againſt in Parliament vvere ever heretofore committed priſoners before the Parliament fate.</p>
+            <p n="12">XII. This being novv done by the Prince of Orange, vvhether it be not ane evident ſign that vvhenever he shall gett any aſſembly of men together that he shall think fitt to ſtile a Parliament, he reſolves they shall be ſuch as shall fall upon any perſons or doe any thing that he shall think fitt to chalk out to them.</p>
+            <p n="13">XIII. Whether the vvhole Courſe of his life abroad in the deſtruction of the liberty of thoſe Provinces vvith vvhoſe protection he vvas entruſted, Or his many violent and ille<g ref="char:EOLhyphen"/>gall actions ſince his Landing, doe give the more certain vvar<g ref="char:EOLhyphen"/>ning to every English man of that oppreſſion and Tyranny they muſt Ly under during his uſurpation.</p>
+            <p n="14">XIV. If the Prince of Orange find any perſon honeſt enough to oppoſe his unjuſt deſſigns vvhether of deſtroying or enſlaving the People and that he finds no vvay by lavv to remove ſuch perſons: <hi>Quaere</hi> if he vvill not let looſe the People upon them as he did upon the <hi>De Wittes</hi> in Holland and Roman Catholicks in England?</p>
+            <p n="15">XV. Since the Prince of Orange has shovvn that his oath, though never ſo ſolemnly given, is not to be regar<g ref="char:EOLhyphen"/>ded; as it appeares by his having ſvvorn ſolemnly to the States generall of the United Provinces upon his admiſſion to the office of their Generall, that he never should ask, or tho offered accept of the office of State-Holder, and yet both asked and is in actuall poſſeſſion of the ſame: <hi>Quaere</hi> vvhat ſecurity he can give that he vvil not treat England if they make him their maſter as he has done Holland vvho made him their ſervant?</p>
+         </div>
+      </body>
+   </text>
+</TEI>
